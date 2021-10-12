@@ -1,7 +1,7 @@
 # Getting Started with Course Club App
 This is a simple Reactjs based Course selection site .
 
-# Live Link (https://objective-benz-cac7bd.netlify.app/)
+# Live Link (https://vibrant-dijkstra-581724.netlify.app/)
 
 # Things that you can do using this app
 * View  Courses and info
